@@ -14,4 +14,4 @@ OnlineChatApplication is a simple multi-client chat server application built in 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anandamurti/online-chat-app.git
+   git clone https://github.com/anandamurti/OnlineChatApplication.git
